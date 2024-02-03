@@ -1,0 +1,101 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    border:2px solid transparent;
+    width:100vw;
+    width:100vh;
+    justify-content: center;
+    background-color: rgb(234, 240, 240);
+  
+  }
+    .container {
+      display:flex;
+      flex-wrap:wrap;
+     align-content:center;
+     justify-content: center;
+     max-width: 900px;
+      margin: 0 auto;
+    }
+  
+  
+  h1{
+    font-weight: bold;
+    margin-left: 10px;
+    display: center;
+    font-size: 50px;
+  }
+      
+  
+  fieldset {
+      width: 200px;
+      margin: 0 auto; /* center the fieldset horizontally */
+      color:white;
+      height: fit-content;
+      margin: right 0;
+      padding-right: 0;
+      margin-top: 50px;
+      text-align: left;
+      background-color: #FF004D;
+      border:5px double red;
+  }
+  
+  textarea,submit,select, input{
+   
+        color:white;
+        background-color:#BF3131;
+        border: none;
+        width: 480px;
+        height: 60px;
+       padding-right: 10px;
+       padding-left: 10px;
+      }
+      
+       input::placeholder {
+          font-weight: bold;
+          width: 480px;
+          height: 200px;
+          color:white;
+          background-color:#BF3131;
+          border:none;
+        
+        }    
+  
+         textarea {
+
+        color:white;
+        background-color:#BF3131;
+        border: none;
+        height:1rem;
+        width: 480px;
+        height: 90px;
+      padding-right: 10px;
+      padding-left: 10px;
+      font-weight: 900;
+ 
+      }
+        
+  
+  #idk {
+    text-transform: uppercase;
+    background-color: brown;
+    text-decoration: none;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 900;
+  }
+      
+  
+  #idn{
+      background-color: white;
+      border:transparent;
+      height: 70px;
+      width:200px;
+      color:red;
+  }
+  
+  #idp {
+      color: white;
+      font-weight: 900;
+      background-color: grey;
+      text-transform: uppercase;
+      text-decoration: none;
+      font-family: 'Courier New', Courier, monospace;
+  }

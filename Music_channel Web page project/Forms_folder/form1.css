@@ -1,0 +1,191 @@
+/* style.css */
+
+* {
+  box-sizing: border-box;
+}
+
+/* CSS Custom Properties */
+:root {
+  --main-bg: #4A4E4D;
+  --top-menu-bg: black;
+  --sub-menu-bg: rgb(0, 0, 0);
+}
+
+body {
+  font-family: Tahoma, Geneva, sans-serif;
+  height: 100vh;
+  margin: 0;
+  display: grid;
+  grid-template-rows: 3rem auto;
+  color: white;
+}
+
+.flex-ctr {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.flex-around {
+  display: flex;
+  height: 20%;
+  justify-content: space-around;
+  align-items: center;
+}
+
+nav a {
+  line-height: 3rem;
+  padding: 0 1rem;
+  text-transform: uppercase;
+  text-decoration: none;
+  color: white;
+}
+
+#top-menu a:hover {
+  background-color: var(--sub-menu-bg);
+}
+
+/* Additional styles */
+header,
+#top-menu {
+  position: relative;
+}
+
+#top-menu {
+  z-index: 20;
+}
+
+#sub-menu {
+  width: 100%;
+  z-index: 10;
+  transition: top 0.5s ease-out;
+}
+
+#sub-menu a:hover {
+  background-color: var(--top-menu-bg);
+}
+
+nav a.active {
+  background-color: var(--sub-menu-bg);
+  color: var(--main-bg);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    border:2px solid transparent;
+    width:100vw;
+    width:100vh;
+    justify-content: center;
+    background-color: rgb(234, 240, 240);
+  
+  }
+    .container {
+      display:flex;
+      flex-wrap:wrap;
+     align-content:center;
+     justify-content: center;
+     max-width: 900px;
+      margin: 0 auto;
+    }
+  
+  
+  h1{
+    font-weight: bold;
+    margin-left: 10px;
+    display: center;
+    font-size: 50px;
+  }
+      
+  
+  fieldset {
+      width: 200px;
+      margin: 0 auto; /* center the fieldset horizontally */
+      color:white;
+      height: fit-content;
+      margin: right 0;
+      padding-right: 0;
+      margin-top: 50px;
+      text-align: left;
+      background-color: #FF004D;
+      border:5px double red;
+  }
+  
+  textarea,submit,select, input{
+   
+        color:white;
+        background-color:#BF3131;
+        border: none;
+        width: 480px;
+        height: 60px;
+      padding-right: 10px;
+      padding-left: 10px;
+      }
+      
+       input::placeholder {
+          font-weight: bold;
+          width: 480px;
+          height: 200px;
+          color:white;
+          background-color:#BF3131;
+          border:none;
+        
+        }    
+  
+         textarea {
+
+        color:white;
+        background-color:#BF3131;
+        border: none;
+        height:1rem;
+        width: 480px;
+        height: 90px;
+      padding-right: 10px;
+      padding-left: 10px;
+      font-weight: 900;
+ 
+      }
+        
+  
+  #idk {
+    text-transform: uppercase;
+    background-color: brown;
+    text-decoration: none;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 900;
+  }
+      
+  
+  #idn{
+      background-color: white;
+      border:transparent;
+      height: 70px;
+      width:200px;
+      color:red;
+  }
+  
+  #idp {
+      color: white;
+      font-weight: 900;
+      background-color: grey;
+      text-transform: uppercase;
+      text-decoration: none;
+      font-family: 'Courier New', Courier, monospace;
+  }

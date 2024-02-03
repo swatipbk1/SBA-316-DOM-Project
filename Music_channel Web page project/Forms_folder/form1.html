@@ -1,0 +1,76 @@
+/*Include at least one form and/or input with HTML attribute validation.*/
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Feedback form</title>
+    <link rel="stylesheet" href="form1.css">
+</head>
+<body>
+    <div class="container">
+   <form action="action.php"></form>
+   <form>
+    <legends></legends>
+  
+   <fieldset id="id1">
+    <h1>Get in Touch</h1>
+    <h2>Feedback Form</h2>
+    <input
+    type="text"
+    name="Name"
+    placeholder="Enter a Username"
+    pattern="^[a-zA-Z]+"
+    title="Please start your username with a letter from a-z."
+    required
+  />
+    <br>
+   <br>
+   <input
+        type="password"
+        name="password"
+        id="password"
+        placeholder="Password"
+        required
+      />
+    <br>
+    <br>
+    <input
+        type="date"
+        id="date"
+        value="2024-12-31"
+        min="1910-01-01"
+        max="2024-12-31"
+        placeholder="Date of Birth" 
+        required 
+      />
+    <br>
+    <br>
+    <select name="Country" id="CountryId" required> 
+        <option value="">Select Country</option>
+        <option value="USA">USA</option>
+        <option value="UK">UK</option>
+        <option value="UAE">UAE</option> 
+      </select>
+      <br>
+      <br>
+    <input type="text" pattern="^[a-zA-Z]*$" title="One word with no numbers or special characters."
+     placeholder="Your Email Id" required>
+    <br>
+    <br>
+ <textarea name="How can I help you" 
+    placeholder="How can I help"rows=5 minlength="5" maxlength="200" required>Your feedback is important and helps us improve our services and products.How can we help you today?</textarea>  
+    <br>
+    <br>
+    <input type="submit" value="Submit" />
+    <br>
+   </fieldset>
+</form>
+</div>
+<script src="form1.js"></script>
+<body>
+    <head>
+        <html>
+
+      
