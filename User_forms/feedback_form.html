@@ -1,12 +1,10 @@
-/*Include at least one form and/or input with HTML attribute validation.*/
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Feedback form</title>
-    <link rel="stylesheet" href="form1.css">
+    <link rel="stylesheet" href="feedback_form.css">
 </head>
 <body>
     <div class="container">
@@ -21,9 +19,6 @@
     type="text"
     name="Name"
     placeholder="Enter a Username"
-    pattern="^[a-zA-Z]+"
-    title="Please start your username with a letter from a-z."
-    required
   />
     <br>
    <br>
@@ -47,7 +42,7 @@
       />
     <br>
     <br>
-    <select name="Country" id="CountryId" required> 
+    <select name="Country" id="CountryId" style="width: 500px;" required> 
         <option value="">Select Country</option>
         <option value="USA">USA</option>
         <option value="UK">UK</option>
@@ -60,17 +55,16 @@
     <br>
     <br>
  <textarea name="How can I help you" 
-    placeholder="How can I help"rows=5 minlength="5" maxlength="200" required>Your feedback is important and helps us improve our services and products.How can we help you today?</textarea>  
+    placeholder="How can I help"rows=1 style="width:496px" minlength="5" maxlength="200" required>Your feedback is important and helps us improve our services and products.How can we help you today?</textarea>  
     <br>
     <br>
-    <input type="submit" value="Submit" />
+    <input type="submit" value="Submit" style="width:496px" />
     <br>
    </fieldset>
 </form>
 </div>
-<script src="form1.js"></script>
 <body>
     <head>
         <html>
 
-      
+       

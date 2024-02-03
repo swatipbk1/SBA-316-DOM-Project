@@ -1,93 +1,3 @@
-/* style.css */
-
-* {
-  box-sizing: border-box;
-}
-
-/* CSS Custom Properties */
-:root {
-  --main-bg: #4A4E4D;
-  --top-menu-bg: black;
-  --sub-menu-bg: rgb(0, 0, 0);
-}
-
-body {
-  font-family: Tahoma, Geneva, sans-serif;
-  height: 100vh;
-  margin: 0;
-  display: grid;
-  grid-template-rows: 3rem auto;
-  color: white;
-}
-
-.flex-ctr {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-.flex-around {
-  display: flex;
-  height: 20%;
-  justify-content: space-around;
-  align-items: center;
-}
-
-nav a {
-  line-height: 3rem;
-  padding: 0 1rem;
-  text-transform: uppercase;
-  text-decoration: none;
-  color: white;
-}
-
-#top-menu a:hover {
-  background-color: var(--sub-menu-bg);
-}
-
-/* Additional styles */
-header,
-#top-menu {
-  position: relative;
-}
-
-#top-menu {
-  z-index: 20;
-}
-
-#sub-menu {
-  width: 100%;
-  z-index: 10;
-  transition: top 0.5s ease-out;
-}
-
-#sub-menu a:hover {
-  background-color: var(--top-menu-bg);
-}
-
-nav a.active {
-  background-color: var(--sub-menu-bg);
-  color: var(--main-bg);
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 body{
     font-family: Arial, Helvetica, sans-serif;
     border:2px solid transparent;
@@ -128,8 +38,8 @@ body{
       border:5px double red;
   }
   
-  textarea,submit,select, input{
-   
+  select, input{
+        width: 500px;
         color:white;
         background-color:#BF3131;
         border: none;
@@ -139,30 +49,23 @@ body{
       padding-left: 10px;
       }
       
-       input::placeholder {
+     input::placeholder {
           font-weight: bold;
           width: 480px;
           height: 200px;
           color:white;
           background-color:#BF3131;
           border:none;
-        
         }    
   
-         textarea {
-
-        color:white;
-        background-color:#BF3131;
-        border: none;
-        height:1rem;
-        width: 480px;
-        height: 90px;
-      padding-right: 10px;
-      padding-left: 10px;
-      font-weight: 900;
- 
-      }
-        
+        textarea{
+          font-weight: bold;
+          width: 480px;
+          height: 100px;
+          color:white;
+          background-color:#BF3131;
+          border: none;
+        }
   
   #idk {
     text-transform: uppercase;
