@@ -19,6 +19,16 @@ let songs= [
 audioElement.play();
 
 
+
+//Handle Play/Pause Click
+masterPlay.addEventListener("click", () => {
+    if(audioElement.paused || audioElement.currentTime<=0){
+        audioElement.play();
+    }
+
+})
+
+
 //Listen to Events
 myProgressBar.addEventListener( "timeupdate", () => {
     console.log("timeupdate");
