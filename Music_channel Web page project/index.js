@@ -17,3 +17,9 @@ let songs= [
 ]
 
 audioElement.play();
+
+
+//Listen to Events
+myProgressBar.addEventListener( "timeupdate", () => {
+    console.log("timeupdate");
+});
