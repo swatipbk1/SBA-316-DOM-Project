@@ -1,3 +1,4 @@
+
 myTunes Website
 Welcome to myTunes – Your Ultimate Entertainment Hub!
 
@@ -57,6 +58,7 @@ Used at least two BOM properties or methods.
 Usage
 Provide instructions on how to use or interact with our website.
 
+Steps to navigate for this Project are as follows:
 1. Go to the myTunes music website.
 2. From myTunes music website itself, navigate to different webpages to see how i implemented the Project's needs.
    3.Check the navigation bar of myTunes music website to click "Join-Us" navbar which will take you Join-us webpage where i have implemennted "Include at least one form and/or input with DOM event-based validation. (This can be the same form or input as the one above, but should include event-based validation in addition to the HTML attribute validation.)".
@@ -100,12 +102,13 @@ I think I would have explore the internet resources in early stage for good picu
 
 Were there any requirements that were difficult to implement? What do you think would make them easier to implement in future projects?
 
-Requirement were easy but i think i went too deep into it beacuse a wanted to implement a real music website with beautification!
+Requirement were easy but i think i went too deep into it beacuse I wanted to build a real closealike music website with beautification!
 Yes, I have struggled a lot for getting music song played in my myTunes library.I have followed the right approach to get the elements selected from DOM and added a song but irresepctive of multiple attempts ,my song playing feature didnt played well.
 I would say more hands on practice of Javascript and more time indeed would probably make things done at faster rate.
 
 What would you add to, or change about your application if given more time?
 I would like to get my myTunes Library function to play all the songs I Love nicely and want to improve more of it layout part(CSS).But not all the songs were available for dowload when I started of!
+
 Use this space to make notes for your future self about anything that you think is important to remember about this process, or that may aid you when attempting something similar again:
 
 Planning ahead.
