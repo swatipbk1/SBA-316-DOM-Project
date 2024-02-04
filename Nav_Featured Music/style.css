@@ -1,46 +1,45 @@
 body {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    height: 100vh;
-    margin: 0;
-    font-family: Arial, sans-serif;
-    background-color: #f5f5f5;
-  }
-  
-  #app {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 20px;
-  }
-  
-  .music-post {
-    width: 200px;
-    padding: 15px;
-    background-color: #fff;
-    border-radius: 8px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    text-align: center;
-  }
-  
-  .album-cover {
-    width: 100%;
-    max-height: 150px;
-    object-fit: cover;
-    border-radius: 8px;
-  }
-  
-  .details {
-    margin-top: 10px;
-  }
-  
-  .song-title {
-    font-size: 1.2em;
-    margin: 0;
-  }
-  
-  .artist {
-    color: #555;
-    margin: 5px 0 0;
-  }
-  
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: repeating-radial-gradient(#e66465, #9198e5);  
+}
+
+#app {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.music-post {
+  width: 300px; /* Increase the width */
+  padding: 20px; /* Adjust padding for more space */
+  background-color:skyblue;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+.album-cover {
+  width: 100%;
+  max-height: 200px; /* Increase the max-height for a larger album cover */
+  object-fit: cover;
+  border-radius: 8px;
+}
+
+.details {
+  margin-top: 10px;
+}
+
+.song-title {
+  font-size: 1.2em;
+  margin: 0;
+}
+
+.artist {
+  color: #555;
+  margin: 5px 0 0;
+}
