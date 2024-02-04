@@ -48,7 +48,7 @@ Used at least two BOM properties or methods.
 
 # Usage
 
-Many music lovers often various visit music websites to either listen, download soul pleasing divine hearing content.Attempt to do service to the mankind through creation of this beautiful website which can be used to upload soul touching music or deep alpha meditative music that will help the souls to disconnect from this virtual world for a while and get connected to the supreme Soul (the God) to extend/attract all of his divine virtues like peace, power, serenity,love and happiness!
+Many music lovers often visit various music websites to either listen, download soul pleasing divine hearing content.Attempt to do service to the mankind through creation of this beautiful website which can be used to upload soul touching music or deep alpha meditative music that will help the souls to disconnect from this virtual world for a while and get connected to the supreme Soul (the God) to extend/attract all of his divine virtues like peace, power, serenity,love and happiness!
 
 # Navigation
 
