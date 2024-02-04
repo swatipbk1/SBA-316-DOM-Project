@@ -92,7 +92,7 @@ Steps to navigate for this Project are as follows:
    (Include at least one form and/or input with HTML attribute validation.)
 
 ===================================================================================
-Thank you!
+Thank you! **_(All Power is within You,You can do anything and everything-----Swami viveknanda!!)_**
 
 Reflection (Optional)
 
