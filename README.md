@@ -98,12 +98,12 @@ I think I would have explore the internet resources in early stage for good picu
 
 Were there any requirements that were difficult to implement? What do you think would make them easier to implement in future projects?
 
-Requirement were easy but i think i went too deep into it beacuse I wanted to build a real closealike music website with beautification!
+Requirement were easy but i think I went too deep into it beacuse I wanted to build a real closealike music website with beautification!
 Yes, I have struggled a lot for getting music song played in my myTunes library.I have followed the right approach to get the elements selected from DOM and added a song but irresepctive of multiple attempts ,my song playing feature didnt played well intially but after hours of debugging helped me figure out the issue to resolve it.
 I would say more hands on practice of Javascript and more time indeed would probably make things done at faster pace.
 
 What would you add to, or change about your application if given more time?
-I would like to get my myTunes Library function to play all the songs I Love nicely and want to improve more of it layout part(CSS).But not all my favorite songs were available for dowload when I started of!
+I would like to get my myTunes Library function to play all the songs I Love the most and want to improve more of it layout part(CSS).But not all my favorite songs were available for dowload when I started of!
 
 Use this space to make notes for your future self about anything that you think is important to remember about this process, or that may aid you when attempting something similar again:
 
