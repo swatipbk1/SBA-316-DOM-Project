@@ -57,7 +57,7 @@ Browser Object Model (BOM):
 Used at least two BOM properties or methods.
 USage
 Many users love to visit music websites to either listen, download soul pleasing divine hearing content.Attempt todo service to man through vreation of this beautiful website.
-=================================================================================
+
 Navigation
 Steps to navigate for this Project are as follows:
 1. Go to the myTunes music website.
