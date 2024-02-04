@@ -5,19 +5,27 @@ body {
   height: 100vh;
   margin: 0;
   font-family: Arial, sans-serif;
+  color:rgb(12, 11, 12);
   background: repeating-radial-gradient(#e66465, #9198e5);  
 }
 
 #app {
   display: flex;
   flex-wrap: wrap;
-  gap: 20px;
+  gap: 80px;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0px;
+  margin: 0px;
+  border-radius: 100%;
+  background-size: cover;
 }
 
 .music-post {
-  width: 300px; /* Increase the width */
+  width: 500px; /* Increase the width */
   padding: 20px; /* Adjust padding for more space */
-  background-color:skyblue;
+  background-color:rgb(199, 219, 227);
   border-radius: 8px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
   text-align: center;
@@ -25,7 +33,7 @@ body {
 
 .album-cover {
   width: 100%;
-  max-height: 200px; /* Increase the max-height for a larger album cover */
+  max-height: 400px; /* Increase the max-height for a larger album cover */
   object-fit: cover;
   border-radius: 8px;
 }
