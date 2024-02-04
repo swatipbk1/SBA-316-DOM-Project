@@ -43,7 +43,7 @@ This is a simple number guessing game implemented using HTML, CSS, and JavaScrip
 
 - `index.html`: Contains the structure of the HTML document.
 - `style.css`: Defines the styles for the HTML elements.
-- `game.js`: Implements the JavaScript logic for the number guessing game.
+- `index.js`: Implements the JavaScript logic for the number guessing game.
 
 ## How to Use
 

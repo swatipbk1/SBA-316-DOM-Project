@@ -1,4 +1,4 @@
-Part of SBA Assignment implemented the below functionalities in the "Task Mnagement tool"
+Part of SBA Assignment implemented the below functionalities in the "Task Management Tool"
 
 Cache at least one element using selectElementById:
 

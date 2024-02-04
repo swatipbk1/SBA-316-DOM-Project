@@ -66,9 +66,9 @@ Steps to navigate for this Project are as follows:
 3. Check the navigation bar of myTunes music website to click "Join-Us" navbar which will take you Join-us webpage where i have implemennted "Include at least one form and/or input with DOM event-based validation. (This can be the same form or input as the one above, but should include event-based validation in addition to the HTML attribute validation.)"
 4. Check the nab bar on main webpage for (Featured Music) to check the implementation of cloning and fragment."Use the DocumentFragment interface or HTML templating with the cloneNode method to create templated content.-implemented here".
 5. From myTunes music website itself, navigate to the following buttons with the below names:
-   a) Explore MyTunes library Now
-   b) Use myTune Free Task Manager
-   c) Try wheel of fortune!
+   (a) Explore MyTunes library Now
+   (b) Use myTune Free Task Manager
+   (c) Try wheel of fortune!
    To check the implemented of remaining task of the projects like :
    Cache at least one element using selectElementById.
    Cache at least one element using querySelector or querySelectorAll

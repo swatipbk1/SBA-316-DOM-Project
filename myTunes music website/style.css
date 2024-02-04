@@ -244,8 +244,6 @@ nav ul li:hover {
   }
 }
 
-/* For Drawer Menu */
-
 .menu_mobile {
   background: var(--purple500);
   top: 0;
@@ -274,32 +272,6 @@ nav ul li:hover {
   margin-right: 1rem;
   margin-top: 1rem;
 }
-
-/* Simple Drop down menu */
-
-/* .menu_mobile {
-  background: var(--purple500);
-  display: none;
-  position: absolute;
-  width: 100%;
-}
-.menu_mobile ul {
-  font-size: 2rem;
-  text-align: center;
-}
-.menu_mobile ul li {
-  padding: 1rem 0;
-  transition: 0.3s ease-in;
-}
-.menu_mobile ul li:hover {
-  background-color: rgb(197, 171, 253);
-  color: var(--purple600);
-  transition: 0.3s ease-in;
-}
-.show_menu {
-  display: block;
-}
-*/
 
 .show_menu {
   transform: translateX(0);
