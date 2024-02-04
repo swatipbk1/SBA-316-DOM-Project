@@ -5,7 +5,7 @@ Cache at least one element using selectElementById:
 Implemented: Cached elements using document.getElementById.
 Cache at least one element using querySelector or querySelectorAll:
 
-Not implemented: This was not explicitly used in the provided program.
+Implemented: This was not explicitly used in the provided program.
 Use the parent-child-sibling relationship to navigate between elements:
 
 Implemented: Used nextElementSibling to navigate between elements.
@@ -19,9 +19,6 @@ Use appendChild and/or prepend to add new elements to the DOM:
 
 Implemented: Used appendChild to add new task elements to the task list.
 Use the DocumentFragment interface or HTML templating with the cloneNode method:
-
-Not implemented: Templating with DocumentFragment or cloneNode was not explicitly used in this example.
-Modify the HTML or text content of at least one element in response to user interaction using innerHTML, innerText, or textContent:
 
 Implemented: Modified the HTML content of tasks in response to user clicks.
 Modify the style and/or CSS classes of an element in response to user interactions using the style or classList properties:
