@@ -25,6 +25,19 @@ nav ul{
 nav ul li{
     padding: 0 12px;
 }
+
+ul a {
+
+    border-color: white;
+    border:none;
+    display: flex;
+    align-items: center;
+    list-style-type: none;
+    height: 65px;
+    background-color: black;
+    color: white;
+}
+
 .brand img{
     width: 44px;
     padding: 0 8px;
