@@ -1,4 +1,4 @@
-# Details
+
 # --myTunes Website
 # Welcome to myTunes – Your Ultimate Entertainment Hub!
 
