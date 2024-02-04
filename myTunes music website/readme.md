@@ -1,10 +1,11 @@
---myTunes Website
-Welcome to myTunes – Your Ultimate Entertainment Hub!
+# Details
+# --myTunes Website
+# Welcome to myTunes – Your Ultimate Entertainment Hub!
 
-Overview
+# Overview
 myTunes is a multifaceted platform that brings together music, movies, TV shows, and more. Explore the world of entertainment with an extensive library of songs, on-demand videos, and exciting games.
 
-Table of Contents
+# Table of Contents
 Features
 Getting Started
 Sections
@@ -16,46 +17,38 @@ Contact
 Project Completion
 License
 Features
-Music Streaming: Access over 45 million songs ad-free. Download albums and tracks for offline listening.
+# Music Streaming: Access over 45 million songs ad-free. Download albums and tracks for offline listening.
 
-Video Library: Enjoy a vast collection of movies and TV shows with over 100,000 options.
+# Video Library: Enjoy a vast collection of movies and TV shows with over 100,000 options.
 
-Task Manager Application: Stay organized and boost productivity with our free task manager.
+# Task Manager Application: Stay organized and boost productivity with our free task manager.
 Features
 Element Caching:
-
 Used getElementById to cache at least one element.
 Utilized querySelector and/or querySelectorAll to cache elements.
 DOM Navigation:
-
 Demonstrated parent-child-sibling relationships to navigate between elements (e.g., parentNode, nextElementSibling).
 Element Iteration:
-
 Iterated over a collection of elements to accomplish a specific task.
 Dynamic Element Creation:
-
 Created new elements using createElement.
 DOM Manipulation:
-
 Used appendChild and/or prepend to add new elements to the DOM.
 Employed the DocumentFragment interface for templated content with the cloneNode method.
 Content Modification:
-
 Modified HTML or text content of at least one element in response to user interaction using innerHTML, innerText, or textContent.
 Style and Class Modification:
-
 Modified the style and/or CSS classes of an element in response to user interactions using the style or classList properties.
 Attribute Modification:
-
 Modified at least one attribute of an element in response to user interaction.
 Event Listeners:
-
 Registered at least two different event listeners and created the associated event handler functions.
 Browser Object Model (BOM):
-
 Used at least two BOM properties or methods.
-USage
-Many users love to visit music websites to either listen, download soul pleasing divine hearing content.Attempt todo service to man through vreation of this beautiful website.
+
+# Usage
+
+Many users love to visit music websites to either listen, download soul pleasing divine hearing content.Attempt to do service to mankind through creation of this beautiful website which can be used to upload soul touching songs that will help them dsiconnect from this virtual world and get connected to divine world to get all the peace, power, serenity from the one and only God!
 
 # Navigation
 
@@ -66,10 +59,10 @@ Steps to navigate for this Project are as follows:
 3. Check the navigation bar of myTunes music website to click "Join-Us" navbar which will take you Join-us webpage where i have implemennted "Include at least one form and/or input with DOM event-based validation. (This can be the same form or input as the one above, but should include event-based validation in addition to the HTML attribute validation.)"
 4. Check the nab bar on main webpage for (Featured Music) to check the implementation of cloning and fragment."Use the DocumentFragment interface or HTML templating with the cloneNode method to create templated content.-implemented here".
 5. From myTunes music website itself, navigate to the following buttons with the below names:
-   (a) Explore MyTunes library Now
-   (b) Use myTune Free Task Manager
+    (a) Explore MyTunes library Now
+     (b) Use myTune Free Task Manager
    (c) Try wheel of fortune!
-   To check the implemented of remaining task of the projects like :
+     To check the implemented of remaining task of the projects like :
    Cache at least one element using selectElementById.
    Cache at least one element using querySelector or querySelectorAll
    Use the parent-child-sibling relationship to navigate between elements at least once (firstChild, lastChild, parentNode, nextElementSibling, etc.).
@@ -77,18 +70,20 @@ Steps to navigate for this Project are as follows:
    Create at least one element using createElement.
    Use appendChild and/or prepend to add new elements to the DOM.
    Use the DocumentFragment interface or HTML templating with the cloneNode method to create templated content.
-   Modify the HTML or text content of at least one element in response to user interaction using innerHTML, innerText, or textContent.
+   Modify the HTML or text content of at least one element in response to user interaction using innerHTML, innerText, or
+   textContent.
    Modify the style and/or CSS classes of an element in response to user interactions using the style or classList properties.
    Modify at least one attribute of an element in response to user interaction.
    Register at least two different event listeners and create the associated event handler functions.
    Use at least two Browser Object Model (BOM) properties or methods.
-6. While you Explore MyTunes library please check ("Feedback Form") on this web page to see the ve implmentation of below information.
+7. While you Explore MyTunes library please check ("Feedback Form") on this web page to see the ve implmentation of below
+   information.
    (Include at least one form and/or input with HTML attribute validation.)
 
 ===================================================================================
-Thank you!
+# Thank you!
 
-Reflection (Optional)
+# Reflection (Optional)
 
 What could you have done differently during the planning stages of your project to make the execution easier?
 
