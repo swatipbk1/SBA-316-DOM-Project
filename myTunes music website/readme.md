@@ -1,7 +1,9 @@
--myTunes Website
+# -myTunes Website
+
 Welcome to myTunes – Your Ultimate Entertainment Hub!
 
-Overview
+# Overview
+
 myTunes is a multifaceted platform that brings together music, movies, TV shows, and more. Explore the world of entertainment with an extensive library of songs, on-demand videos, and exciting games.
 
 Table of Contents
@@ -16,11 +18,13 @@ Contact
 Project Completion
 License
 Features
-Music Streaming: Access over 45 million songs ad-free. Download albums and tracks for offline listening.
 
-Video Library: Enjoy a vast collection of movies and TV shows with over 100,000 options.
+# Music Streaming: Access over 45 million songs ad-free. Download albums and tracks for offline listening.
 
-Task Manager Application: Stay organized and boost productivity with our free task manager.
+# Video Library: Enjoy a vast collection of movies and TV shows with over 100,000 options.
+
+# Task Manager Application: Stay organized and boost productivity with our free task manager.
+
 Features
 Element Caching:
 
@@ -54,8 +58,10 @@ Registered at least two different event listeners and created the associated eve
 Browser Object Model (BOM):
 
 Used at least two BOM properties or methods.
-USage
-Many users love to visit music websites to either listen, download soul pleasing divine hearing content.Attempt todo service to man through vreation of this beautiful website.
+
+# Usage
+
+Many music lover often visit various music websites/channels to either listen, download soul pleasing divine hearing content.Attempt to do service to the mankind through creation of this beautiful website.This website can be freely available to everyone.Uploaded with many more soul pleasing musical content on differnt subjects, one of them could be deep meditation music (alpha waves sound) that will heal all those souls who are in grief, anger,frustration or Anxiety by letting them to disconnect with this virtual material world for a while and connect with the Supreme soul to withdraw or extend all of his divine virtues like peace,serenity,love, happiness and smile.
 
 # Navigation
 
@@ -96,12 +102,12 @@ I think I would have explore the internet resources in early stage for good picu
 
 Were there any requirements that were difficult to implement? What do you think would make them easier to implement in future projects?
 
-Requirement were easy but i think i went too deep into it beacuse I wanted to build a real closealike music website with beautification!
-Yes, I have struggled a lot for getting music song played in my myTunes library.I have followed the right approach to get the elements selected from DOM and added a song but irresepctive of multiple attempts ,my song playing feature didnt played well.
-I would say more hands on practice of Javascript and more time indeed would probably make things done at faster rate.
+Requirement were easy but i think I went too deep into it beacuse I wanted to build a real closealike music website with beautification!
+Yes, I have struggled a lot for getting music song played in my myTunes library.I have followed the right approach to get the elements selected from DOM and added a song but irresepctive of multiple attempts ,my song playing feature didnt played well intially but after hours of debugging helped me figure out the issue to resolve it.
+I would say more hands on practice of Javascript and more time indeed would probably make things done at faster pace.
 
 What would you add to, or change about your application if given more time?
-I would like to get my myTunes Library function to play all the songs I Love nicely and want to improve more of it layout part(CSS).But not all the songs were available for dowload when I started of!
+I would like to get my myTunes Library function to play all the songs I Love the most and want to improve more of it layout part(CSS).But not all my favorite songs were available for dowload when I started of!
 
 Use this space to make notes for your future self about anything that you think is important to remember about this process, or that may aid you when attempting something similar again:
 
