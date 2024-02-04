@@ -1,4 +1,4 @@
-myTunes Website
+-myTunes Website
 Welcome to myTunes – Your Ultimate Entertainment Hub!
 
 Overview
@@ -54,43 +54,39 @@ Registered at least two different event listeners and created the associated eve
 Browser Object Model (BOM):
 
 Used at least two BOM properties or methods.
-Usage
-Provide instructions on how to use or interact with our website.
+USage
+Many users love to visit music websites to either listen, download soul pleasing divine hearing content.Attempt todo service to man through vreation of this beautiful website.
+
+# Navigation
+
+Steps to navigate for this Project are as follows:
 
 1. Go to the myTunes music website.
 2. From myTunes music website itself, navigate to different webpages to see how i implemented the Project's needs.
-   3.Check the navigation bar of myTunes music website to click "Join-Us" navbar which will take you Join-us webpage where i have implemennted "Include at least one form and/or input with DOM event-based validation. (This can be the same form or input as the one above, but should include event-based validation in addition to the HTML attribute validation.)".
-   4.From myTunes music website itself, navigate to the following buttons with the below names:
-   Explore MyTunes library Now
-   Use myTune Free Task Manager
-   Try wheel of fortune!
-   To check how I implemented the remaining task of the projects like :
+3. Check the navigation bar of myTunes music website to click "Join-Us" navbar which will take you Join-us webpage where i have implemennted "Include at least one form and/or input with DOM event-based validation. (This can be the same form or input as the one above, but should include event-based validation in addition to the HTML attribute validation.)"
+4. Check the nab bar on main webpage for (Featured Music) to check the implementation of cloning and fragment."Use the DocumentFragment interface or HTML templating with the cloneNode method to create templated content.-implemented here".
+5. From myTunes music website itself, navigate to the following buttons with the below names:
+   a) Explore MyTunes library Now
+   b) Use myTune Free Task Manager
+   c) Try wheel of fortune!
+   To check the implemented of remaining task of the projects like :
    Cache at least one element using selectElementById.
    Cache at least one element using querySelector or querySelectorAll
    Use the parent-child-sibling relationship to navigate between elements at least once (firstChild, lastChild, parentNode, nextElementSibling, etc.).
+   Iterate over a collection of elements to accomplish some task.
+   Create at least one element using createElement.
+   Use appendChild and/or prepend to add new elements to the DOM.
+   Use the DocumentFragment interface or HTML templating with the cloneNode method to create templated content.
+   Modify the HTML or text content of at least one element in response to user interaction using innerHTML, innerText, or textContent.
+   Modify the style and/or CSS classes of an element in response to user interactions using the style or classList properties.
+   Modify at least one attribute of an element in response to user interaction.
+   Register at least two different event listeners and create the associated event handler functions.
+   Use at least two Browser Object Model (BOM) properties or methods.
+6. While you Explore MyTunes library please check (Feedback Form") on this web page to see the ve implmentation of below information.
+   (Include at least one form and/or input with HTML attribute validation.)
 
-Iterate over a collection of elements to accomplish some task.
-
-Create at least one element using createElement.
-Use appendChild and/or prepend to add new elements to the DOM.
-
-Use the DocumentFragment interface or HTML templating with the cloneNode method to create templated content.
-
-Modify the HTML or text content of at least one element in response to user interaction using innerHTML, innerText, or textContent.
-
-Modify the style and/or CSS classes of an element in response to user interactions using the style or classList properties.
-
-Modify at least one attribute of an element in response to user interaction.
-
-Register at least two different event listeners and create the associated event handler functions.
-
-Use at least two Browser Object Model (BOM) properties or methods.
-
-5.From Explore MyTunes library Now, go to user feedback page where I have implmented
-(Include at least one form and/or input with HTML attribute validation.)
-
-6.From the main page,please visit navbar tab("Featured Music ) to check the implementation of cloning and fragment.
-Use the DocumentFragment interface or HTML templating with the cloneNode method to create templated content.
+===================================================================================
+Thank you!
 
 Reflection (Optional)
 
@@ -100,12 +96,13 @@ I think I would have explore the internet resources in early stage for good picu
 
 Were there any requirements that were difficult to implement? What do you think would make them easier to implement in future projects?
 
-Requirement were easy but i think i went too deep into it beacuse a wanted to implement a real music website with beautification!
+Requirement were easy but i think i went too deep into it beacuse I wanted to build a real closealike music website with beautification!
 Yes, I have struggled a lot for getting music song played in my myTunes library.I have followed the right approach to get the elements selected from DOM and added a song but irresepctive of multiple attempts ,my song playing feature didnt played well.
 I would say more hands on practice of Javascript and more time indeed would probably make things done at faster rate.
 
 What would you add to, or change about your application if given more time?
 I would like to get my myTunes Library function to play all the songs I Love nicely and want to improve more of it layout part(CSS).But not all the songs were available for dowload when I started of!
+
 Use this space to make notes for your future self about anything that you think is important to remember about this process, or that may aid you when attempting something similar again:
 
 Planning ahead.
