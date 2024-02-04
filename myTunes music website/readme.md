@@ -1,12 +1,20 @@
+<<<<<<< HEAD
 # -myTunes Website
 
 Welcome to myTunes – Your Ultimate Entertainment Hub!
 
 # Overview
 
+=======
+
+# --myTunes Website
+# Welcome to myTunes – Your Ultimate Entertainment Hub!
+
+# Overview
+>>>>>>> 9cd344e557f2cc074d0a83686983125428e4ff11
 myTunes is a multifaceted platform that brings together music, movies, TV shows, and more. Explore the world of entertainment with an extensive library of songs, on-demand videos, and exciting games.
 
-Table of Contents
+# Table of Contents
 Features
 Getting Started
 Sections
@@ -18,6 +26,7 @@ Contact
 Project Completion
 License
 Features
+<<<<<<< HEAD
 
 # Music Streaming: Access over 45 million songs ad-free. Download albums and tracks for offline listening.
 
@@ -25,43 +34,44 @@ Features
 
 # Task Manager Application: Stay organized and boost productivity with our free task manager.
 
+=======
+# Music Streaming: Access over 45 million songs ad-free. Download albums and tracks for offline listening.
+
+# Video Library: Enjoy a vast collection of movies and TV shows with over 100,000 options.
+
+# Task Manager Application: Stay organized and boost productivity with our free task manager.
+>>>>>>> 9cd344e557f2cc074d0a83686983125428e4ff11
 Features
 Element Caching:
-
 Used getElementById to cache at least one element.
 Utilized querySelector and/or querySelectorAll to cache elements.
 DOM Navigation:
-
 Demonstrated parent-child-sibling relationships to navigate between elements (e.g., parentNode, nextElementSibling).
 Element Iteration:
-
 Iterated over a collection of elements to accomplish a specific task.
 Dynamic Element Creation:
-
 Created new elements using createElement.
 DOM Manipulation:
-
 Used appendChild and/or prepend to add new elements to the DOM.
 Employed the DocumentFragment interface for templated content with the cloneNode method.
 Content Modification:
-
 Modified HTML or text content of at least one element in response to user interaction using innerHTML, innerText, or textContent.
 Style and Class Modification:
-
 Modified the style and/or CSS classes of an element in response to user interactions using the style or classList properties.
 Attribute Modification:
-
 Modified at least one attribute of an element in response to user interaction.
 Event Listeners:
-
 Registered at least two different event listeners and created the associated event handler functions.
 Browser Object Model (BOM):
-
 Used at least two BOM properties or methods.
 
 # Usage
 
+<<<<<<< HEAD
 Many music lover often visit various music websites/channels to either listen, download soul pleasing divine hearing content.Attempt to do service to the mankind through creation of this beautiful website.This website can be freely available to everyone.Uploaded with many more soul pleasing musical content on differnt subjects, one of them could be deep meditation music (alpha waves sound) that will heal all those souls who are in grief, anger,frustration or Anxiety by letting them to disconnect with this virtual material world for a while and connect with the Supreme soul to withdraw or extend all of his divine virtues like peace,serenity,love, happiness and smile.
+=======
+Many music lovers often visit various music websites to either listen, download soul pleasing divine hearing content.Attempt to do service to the mankind through creation of this beautiful website which can be used to upload soul touching music or deep alpha meditative music that will help the souls to disconnect from this virtual world for a while and get connected to the supreme Soul (the God) to extend/attract all of his divine virtues like peace, power, serenity,love and happiness!
+>>>>>>> 9cd344e557f2cc074d0a83686983125428e4ff11
 
 # Navigation
 
@@ -72,10 +82,10 @@ Steps to navigate for this Project are as follows:
 3. Check the navigation bar of myTunes music website to click "Join-Us" navbar which will take you Join-us webpage where i have implemennted "Include at least one form and/or input with DOM event-based validation. (This can be the same form or input as the one above, but should include event-based validation in addition to the HTML attribute validation.)"
 4. Check the nab bar on main webpage for (Featured Music) to check the implementation of cloning and fragment."Use the DocumentFragment interface or HTML templating with the cloneNode method to create templated content.-implemented here".
 5. From myTunes music website itself, navigate to the following buttons with the below names:
-   (a) Explore MyTunes library Now
-   (b) Use myTune Free Task Manager
+    (a) Explore MyTunes library Now
+     (b) Use myTune Free Task Manager
    (c) Try wheel of fortune!
-   To check the implemented of remaining task of the projects like :
+     To check the implemented of remaining task of the projects like :
    Cache at least one element using selectElementById.
    Cache at least one element using querySelector or querySelectorAll
    Use the parent-child-sibling relationship to navigate between elements at least once (firstChild, lastChild, parentNode, nextElementSibling, etc.).
@@ -83,18 +93,20 @@ Steps to navigate for this Project are as follows:
    Create at least one element using createElement.
    Use appendChild and/or prepend to add new elements to the DOM.
    Use the DocumentFragment interface or HTML templating with the cloneNode method to create templated content.
-   Modify the HTML or text content of at least one element in response to user interaction using innerHTML, innerText, or textContent.
+   Modify the HTML or text content of at least one element in response to user interaction using innerHTML, innerText, or
+   textContent.
    Modify the style and/or CSS classes of an element in response to user interactions using the style or classList properties.
    Modify at least one attribute of an element in response to user interaction.
    Register at least two different event listeners and create the associated event handler functions.
    Use at least two Browser Object Model (BOM) properties or methods.
-6. While you Explore MyTunes library please check (Feedback Form") on this web page to see the ve implmentation of below information.
+7. While you Explore MyTunes library please check ("Feedback Form") on this web page to see the ve implmentation of below
+   information.
    (Include at least one form and/or input with HTML attribute validation.)
 
 ===================================================================================
-Thank you!
+# Thank you!
 
-Reflection (Optional)
+# Reflection (Optional)
 
 What could you have done differently during the planning stages of your project to make the execution easier?
 
@@ -102,12 +114,21 @@ I think I would have explore the internet resources in early stage for good picu
 
 Were there any requirements that were difficult to implement? What do you think would make them easier to implement in future projects?
 
+<<<<<<< HEAD
 Requirement were easy but i think I went too deep into it beacuse I wanted to build a real closealike music website with beautification!
 Yes, I have struggled a lot for getting music song played in my myTunes library.I have followed the right approach to get the elements selected from DOM and added a song but irresepctive of multiple attempts ,my song playing feature didnt played well intially but after hours of debugging helped me figure out the issue to resolve it.
 I would say more hands on practice of Javascript and more time indeed would probably make things done at faster pace.
 
 What would you add to, or change about your application if given more time?
 I would like to get my myTunes Library function to play all the songs I Love the most and want to improve more of it layout part(CSS).But not all my favorite songs were available for dowload when I started of!
+=======
+Requirement were easy but i think i went too deep into it beacuse I wanted to build a real closealike music website with beautification!
+Yes, I have struggled a lot for getting music song list played part in my myTunes library.I have followed the right approach to get the elements selected from the DOM and added song lists but irresepctive of multiple attempts ,my song playing feature didnt worked well intially but after having hours of debugigng helped me figure out the issue and resolve it.
+I would say more hands on practice of Javascript and more time indeed would probably make things done at faster pace.
+
+What would you add to, or change about your application if given more time?
+I would like to get my myTunes Library function to play all the songs I Love the most and want to improve more of it layout part(CSS).But not all my favorite songs were available to dowload when I started of!
+>>>>>>> 9cd344e557f2cc074d0a83686983125428e4ff11
 
 Use this space to make notes for your future self about anything that you think is important to remember about this process, or that may aid you when attempting something similar again:
 
