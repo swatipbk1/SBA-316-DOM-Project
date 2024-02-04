@@ -93,7 +93,8 @@ Steps to navigate for this Project are as follows:
 
 ===================================================================================
 Thank you!
-# (All Power is within You,You can do anything and everything --Swami viveknanda!!)
+
+# (All Power is within You,You can do anything and everything --Swami vivekananda!!)
 
 Reflection (Optional)
 
