@@ -1,4 +1,4 @@
--myTunes Website
+--myTunes Website
 Welcome to myTunes – Your Ultimate Entertainment Hub!
 
 Overview
@@ -82,7 +82,7 @@ Steps to navigate for this Project are as follows:
    Modify at least one attribute of an element in response to user interaction.
    Register at least two different event listeners and create the associated event handler functions.
    Use at least two Browser Object Model (BOM) properties or methods.
-6. While you Explore MyTunes library please check (Feedback Form") on this web page to see the ve implmentation of below information.
+6. While you Explore MyTunes library please check ("Feedback Form") on this web page to see the ve implmentation of below information.
    (Include at least one form and/or input with HTML attribute validation.)
 
 ===================================================================================
@@ -97,11 +97,11 @@ I think I would have explore the internet resources in early stage for good picu
 Were there any requirements that were difficult to implement? What do you think would make them easier to implement in future projects?
 
 Requirement were easy but i think i went too deep into it beacuse I wanted to build a real closealike music website with beautification!
-Yes, I have struggled a lot for getting music song played in my myTunes library.I have followed the right approach to get the elements selected from DOM and added a song but irresepctive of multiple attempts ,my song playing feature didnt played well.
-I would say more hands on practice of Javascript and more time indeed would probably make things done at faster rate.
+Yes, I have struggled a lot for getting music song list played part in my myTunes library.I have followed the right approach to get the elements selected from the DOM and added song lists but irresepctive of multiple attempts ,my song playing feature didnt worked well intially but after having hours of debugigng helped me figure out the issue and resolve it.
+I would say more hands on practice of Javascript and more time indeed would probably make things done at faster pace.
 
 What would you add to, or change about your application if given more time?
-I would like to get my myTunes Library function to play all the songs I Love nicely and want to improve more of it layout part(CSS).But not all the songs were available for dowload when I started of!
+I would like to get my myTunes Library function to play all the songs I Love the most and want to improve more of it layout part(CSS).But not all my favorite songs were available to dowload when I started of!
 
 Use this space to make notes for your future self about anything that you think is important to remember about this process, or that may aid you when attempting something similar again:
 
